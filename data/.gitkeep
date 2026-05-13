@@ -1,0 +1,6 @@
+# Thư mục này lưu dữ liệu sinh ra khi chạy main.py:
+#   - lucky_star_erp.db  (SQLite3 database)
+#   - forecast_summary.csv
+#   - forecast_VL001.png
+#
+# *.db và *.png bị gitignore; forecast_summary.csv được commit.

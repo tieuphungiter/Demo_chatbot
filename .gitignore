@@ -1,0 +1,25 @@
+# ─── Dữ liệu sinh ra (không commit vào repo) ─────────────────────────────
+data/*.db
+data/forecast*.png
+
+# ─── Python cache ─────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ─── Virtual environments ─────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ─── Biến môi trường (API keys) ───────────────────────────────────────────
+.env
+*.env
+
+# ─── Jupyter checkpoints ──────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ─── IDE / OS ─────────────────────────────────────────────────────────────
+.vscode/settings.json
+.DS_Store
+Thumbs.db
